@@ -1,3 +1,4 @@
+#python class for net_4 bridge network
 import docker
 client = docker.APIClient(base_url='unix://var/run/docker.sock')
 
