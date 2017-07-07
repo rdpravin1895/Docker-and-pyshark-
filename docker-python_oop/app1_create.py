@@ -1,4 +1,4 @@
-#python classes to create two static http containers app1 and app2
+#python classes to create two static http containers app1 and app2 and an nginx loadbalancer
 
 import docker
 client = docker.APIClient(base_url='unix://var/run/docker.sock')
