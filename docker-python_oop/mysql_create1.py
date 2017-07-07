@@ -1,3 +1,4 @@
+#python program to create objects and start mysql and wordpress 
 #!/usr/bin/python
 
 import docker
