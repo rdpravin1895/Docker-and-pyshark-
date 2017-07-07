@@ -1,3 +1,5 @@
+#python program to create objects and start app1,app2 and nginx_lb
+
 import docker
 import time
 from app1_create import *
