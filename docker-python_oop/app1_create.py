@@ -1,3 +1,5 @@
+#python classes to create two static http containers app1 and app2
+
 import docker
 client = docker.APIClient(base_url='unix://var/run/docker.sock')
 
